@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Libre+Baskerville:ital@1&display=swap');
+body {
+    background:linear-gradient(#00ffa1, #00e1ff); min-height: 100vh
+    }
+   
+* {
+    font-family: "Libre+Baskerville";
+}
+.c{
+   color :#A70057 ;
+}
+.milieu {
+    padding-left: 45%;
+}
+.qualité
+{
+    padding-left: 33%;
+}
+.dernier{
+    padding-left: 39%;
+}
+.pof
+{
+    padding-left: 43%;
+}
+.taille{
+    size:10px;
+}
+.image{
+    padding-left: 80%;
+}
